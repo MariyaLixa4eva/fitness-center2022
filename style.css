@@ -1,0 +1,41 @@
+.navbar {
+    background-color: #4B6587;
+}
+.btn {
+    border: #4B6587 1px solid;
+    background-color: #F0E5CF
+}
+.btn:hover {
+    background-color: #4B6587;
+    color: #F7F6F2;
+}
+body {
+    background-color: #C8C6C6;
+}
+main {
+    width: 100%;
+}
+.position-relative {
+    background-color: #F7F6F2;
+}
+.one {
+    background-color: #4B6587;
+}
+.oneone {
+    background-color: #F7F6F2;
+}
+.two {
+    background-color: #F7F6F2;
+}
+.twotwo {
+    background-color: #4B6587;
+}
+.card-header {
+    background-color: #F0E5CF;
+}
+.card-body {
+    background-color: #F7F6F2;
+}
+.card {
+    background-color: #C8C6C6;
+}
